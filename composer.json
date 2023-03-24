@@ -41,16 +41,5 @@
             "IEXBase\\TronAPI\\": "src"
         }
     },
-
-    "autoload-dev": {
-        "psr-4": {
-            "IEXBase\\TronAPI\\Test\\": "tests"
-        }
-    },
-
-    "config": {
-        "sort-packages": true
-    },
-
     "minimum-stability": "dev"
 }
