@@ -17,12 +17,6 @@
         "tron-api",
         "tron-rest-api"
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/arkaim92/data-types"
-        }
-    ],
     "require": {
         "php": ">=8.0",
         "arkaim92/data-types": "dev-master",
