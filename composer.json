@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "arkaim92/data-types": "dev-master",
+        "arkaim92/data-types": "*",
         "guzzlehttp/guzzle": "^7.2",
         "iexbase/web3.php": "^2.0.1",
         "kornrunner/secp256k1": "^0.2",
